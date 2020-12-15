@@ -13,7 +13,8 @@ import Header from "./components/Header/Header";
 //Screens
 import AboutScreen from "./views/AboutScreen";
 import ProjectScreen from "./views/ProjectScreen";
-import PromarcaScreen from "./views/PromarcaScreen";
+import SingleProjectScreen from "./views/SingleProjectScreen";
+import PracticeScreen from "./views/PracticeScreen";
 
 //Data
 import { projectData } from "./services/projectData";
@@ -26,13 +27,16 @@ ReactDOM.render(
         <Route exact path="/" name="About" component={AboutScreen} />
         <Route path="/project" name="Project" component={ProjectScreen} />
         <Route exct path="/promarca" name="Promarca">
-          <PromarcaScreen data={projectData[0]} />
+          <SingleProjectScreen data={projectData[0]} />
         </Route>
         <Route exct path="/fuerzav" name="FuerzaV">
-          <PromarcaScreen data={projectData[1]} />
+          <SingleProjectScreen data={projectData[1]} />
         </Route>
         <Route exct path="/aptisgo" name="AptisGo">
-          <PromarcaScreen data={projectData[2]} />
+          <SingleProjectScreen data={projectData[2]} />
+        </Route>
+        <Route exct path="/practice" name="Practice">
+          <PracticeScreen data={projectData[3]} />
         </Route>
       </Switch>
     </Container>
