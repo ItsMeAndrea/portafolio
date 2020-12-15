@@ -98,7 +98,7 @@ export const projectData = [
     route: "/fuerzav",
     skills: ["ArcGIS", "UI/UX", "React", "Adobe XD", "Qt", "WordPress"],
     description:
-      "FuerzaV is a project which has a vision of complementing the sales process for a companie. Using geolocation, it aims to provide tools to locate and track the available merchandise. It'll also be able to show indicators on the status of sales and overall performance of the company. FuerzaV also offers an application for Sellers, which is responsible for the sale of goods and customer orders, an application for Dispatchers, which is responsible for the logic of transporting each order and the possibility of integrating sites in WordPress.",
+      "FuerzaV is a project which has a vision of complementing the sales process for a company. Using geolocation, it aims to provide tools to locate and track the available merchandise. It'll also be able to show indicators on the status of sales and overall performance of the company. FuerzaV also offers an application for Sellers, which is responsible for the sale of goods and customer orders, an application for Dispatchers, which is responsible for the logic of transporting each order and the possibility of integrating sites in WordPress.",
     images: [
       {
         src: FuerzaVCover,
@@ -133,7 +133,7 @@ export const projectData = [
     route: "/aptisgo",
     skills: ["Adobe XD", "React", "UI/UX", "Prototypes", "Web Desing"],
     description:
-      "AptisGo is a web application where you can practice for the Aptis exam. This platform seek to help students from all over the world to be able to prepare in the best way for this exam. Different components were developed to meet this objective, making the experience of learning and studying more dynamic and fun.",
+      "AptisGo is a web application where you can practice for the Aptis exam. This platform helps students from all over the world to prepare in the best way for this exam. We tried to make the experience of learning more fun and dynamic, making a design that's simple to use for every user.",
     images: [
       {
         src: AptisCover,
