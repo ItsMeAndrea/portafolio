@@ -14,10 +14,6 @@ code {
     monospace;
 }
 
-.container {
-  height: 100vh;
-}
-
 .badge {
   background-color: #5f6caf;
   padding: 1em 1em;
