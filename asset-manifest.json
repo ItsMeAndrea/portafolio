@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.887d5c92.chunk.css",
-    "main.js": "/portafolio/static/js/main.3e714216.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.3e714216.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.b63ce2df.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.b63ce2df.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.894fb308.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.894fb308.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/portafolio/static/css/2.20aa2d7b.chunk.css",
@@ -54,7 +54,7 @@
     "static/media/7.d692cbd3.png": "/portafolio/static/media/7.d692cbd3.png",
     "static/media/8.024e5e6e.png": "/portafolio/static/media/8.024e5e6e.png",
     "static/media/9.080f0458.png": "/portafolio/static/media/9.080f0458.png",
-    "static/media/CV_Maria_Andrea.86858913.pdf": "/portafolio/static/media/CV_Maria_Andrea.86858913.pdf",
+    "static/media/CV_Maria_Andrea.003d5c73.pdf": "/portafolio/static/media/CV_Maria_Andrea.003d5c73.pdf",
     "static/media/cover.65754260.png": "/portafolio/static/media/cover.65754260.png",
     "static/media/cover.bcfd51d4.jpg": "/portafolio/static/media/cover.bcfd51d4.jpg",
     "static/media/cover.f877b383.png": "/portafolio/static/media/cover.f877b383.png",
@@ -66,6 +66,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.3dbbc173.chunk.js",
     "static/css/main.887d5c92.chunk.css",
-    "static/js/main.3e714216.chunk.js"
+    "static/js/main.b63ce2df.chunk.js"
   ]
 }
