@@ -4,7 +4,7 @@ import Project from "../components/Project/Project";
 
 const PracticeScreen = ({ data }) => {
   const projects = data.projects;
-  console.log(projects);
+
   return (
     <div>
       {projects.map((project, index) => (
